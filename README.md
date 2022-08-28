@@ -2,7 +2,7 @@
 
 
 
-![](https://images.wallpaperscraft.com/image/single/planet_light_spots_space_86643_1920x1080.jpg)
+![](https://images.wallpaperscraft.com/image/single/mountains_sky_snow_summit_84423_1280x720.jpg)
 
 ## I'm Santosh
 

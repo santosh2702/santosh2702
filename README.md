@@ -9,10 +9,15 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working on: Cracking the code of Neural Networks, building smarter systems one neuron at a time.
+
 🌱 I’m currently learning: DSA (Data Structures & Algorithms) to make my coding game unstoppable.
+
 💬 Ask me about: Algorithms, AI, or the cosmic patterns behind it all—I'm down to geek out!
+
 📫 How to reach me: Hit me up via Gmail (drop your email here, or I can suggest a placeholder).
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: Still a noob at times, but leveling up fast while decoding the universe’s algorithms!
 
 ## Stats

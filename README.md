@@ -1,4 +1,4 @@
-# 🚀 Santosh's Space Mission Control Center 👨‍🚀
+# 🚀 Hello there! 👨‍🚀
 
 ![Mission Control Dashboard](https://thumbs.dreamstime.com/b/futuristic-control-room-earth-view-multiple-monitors-command-center-technology-futuristic-control-room-earth-view-424275923.jpg)
 
@@ -12,7 +12,7 @@ Decoding Neural Networks and DSA while building the future, one algorithm at a t
 - 🔭 **Current Mission:** Cracking the code of Neural Networks, building smarter systems one neuron at a time.
 - 🌱 **Orbiting Knowledge:** Mastering DSA to make my coding game unstoppable.
 - 💬 **Interstellar Comms:** Ask me about Algorithms, AI, or the cosmic patterns behind it all—I'm down to geek out!
-- 📫 **Signal Beacon:** Reach me via Gmail (replace with your email, e.g., santosh@example.com)
+- 📫 **Signal Beacon:** Reach me via Gmail
 - 😄 **Identifiers:** He/Him
 - ⚡ **Quantum Fact:** Still a noob at times, but leveling up fast while decoding the universe’s algorithms!
 

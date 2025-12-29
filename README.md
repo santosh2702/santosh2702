@@ -10,8 +10,8 @@
 - 🔭 **Active Mission:** Building smarter neural networks neuron by neuron  
 - 🌱 **Upgrading Systems:** Conquering Data Structures & Algorithms  
 - 💬 **Open Channel:** Geek out with me on AI, Algorithms, or the universe's hidden patterns!  
-- 📫 **Transmit Message:** Email 
-- 😄 **Call Sign:** He/Him
+- 📫 **Transmit Message:** Email-singh.santosh2702@gmail.com
+- 😄 **Call Sign:** Dexter 
 - ⚡ **Hyperdrive Fact:** Eternal noob mode activated – but leveling up faster than light!  
 
 **Fleet Status:** ![Followers](https://img.shields.io/badge/Crew-124-blue?style=for-the-badge) 
@@ -20,20 +20,23 @@
 
 ## 🖥️ **Telemetry Dashboards – Live GitHub Feeds**
 
-### 🌠 Top Languages Radar
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh2702&hide=java,html,tex&langs_count=6&theme=dracula&layout=compact&title_color=ff6bcb&text_color=ffffff&icon_color=00d9ff&bg_color=0d1117)
+### 🌠 Top Languages Radar (**Donut Chart with Percentages!**)
+![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh2702&hide=java,html,tex&langs_count=8&layout=donut&theme=dracula&title_color=ff6bcb&text_color=ffffff&icon_color=00d9ff&bg_color=0d1117&hide_border=true&border_radius=10)
 
 ### ⚡ Core Systems Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh2702&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&title_color=ff6bcb&text_color=ffffff&icon_color=00d9ff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh2702&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&title_color=ff6bcb&text_color=ffffff&icon_color=00d9ff&bg_color=0d1117&hide_border=true&border_radius=10)
 
 ### 🔥 Streak Propulsion Engine
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2702&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&curr_streak_label=ff6bcb&ring=00d9ff&fire=ff6bcb&background=0d1117)](https://git.io/streak-stats)
+![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Santosh2702&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&curr_streak_label=ff6bcb&ring=00d9ff&fire=ff6bcb&background=0d1117)
 
 ### 📊 Orbital Contribution Trajectory
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh2702&theme=dracula&bg_color=0d1117&color=ff6bcb&line=00d9ff&point=ffffff&area=true&hide_border=true)
 
-## 🏆 **Mastery Console – Galactic Trophies Unlocked**
-![Trophies](https://github-profile-trophy.vercel.app/?username=Santosh2702&theme=dracula&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7)
+## 🏆 **Mastery Console – Galactic Achievements Unlocked**
+**Current Rank Highlights:**
+- 🌟 Stars Earned & Commits Mastery across Python-heavy ML projects
+- 🔄 Active in open-source forks (TensorFlow, Pandas)
+- 🚀 Veteran explorer in AI and algorithms
 
 ## 🛰️ **Flagship Fleet – Pinned Missions**
 

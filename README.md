@@ -1,39 +1,56 @@
-### Hi there 👋
+# 🚀 Santosh's Space Mission Control Center 👨‍🚀
 
+![Mission Control Dashboard](https://thumbs.dreamstime.com/b/futuristic-control-room-earth-view-multiple-monitors-command-center-technology-futuristic-control-room-earth-view-424275923.jpg)
 
+## Command Deck: Captain's Log
 
-![](https://images.unsplash.com/photo-1707273549679-f3a7f7c6aba2?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+**Captain:** Santosh Kumar  
+**Role:** Software Engineer | Open Source Enthusiast | Machine Learning Geek  
 
-## I'm Santosh
+Decoding Neural Networks and DSA while building the future, one algorithm at a time.
 
-Here are some ideas to get you started:
+- 🔭 **Current Mission:** Cracking the code of Neural Networks, building smarter systems one neuron at a time.
+- 🌱 **Orbiting Knowledge:** Mastering DSA to make my coding game unstoppable.
+- 💬 **Interstellar Comms:** Ask me about Algorithms, AI, or the cosmic patterns behind it all—I'm down to geek out!
+- 📫 **Signal Beacon:** Reach me via Gmail (replace with your email, e.g., santosh@example.com)
+- 😄 **Identifiers:** He/Him
+- ⚡ **Quantum Fact:** Still a noob at times, but leveling up fast while decoding the universe’s algorithms!
 
-🔭 I’m currently working on: Cracking the code of Neural Networks, building smarter systems one neuron at a time.
+**Crew Status:** ![Followers](https://img.shields.io/badge/Followers-124-blue) | ![Following](https://img.shields.io/badge/Following-156-green)  
+**Contributions Last Year:** 389 🚀
 
-🌱 I’m currently learning: DSA (Data Structures & Algorithms) to make my coding game unstoppable.
+## Telemetry Dashboards: Real-Time GitHub Metrics
 
-💬 Ask me about: Algorithms, AI, or the cosmic patterns behind it all—I'm down to geek out!
+### 🌌 Radar Scan: Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh2702&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&theme=dracula)
 
-📫 How to reach me: Hit me up via Gmail (drop your email here, or I can suggest a placeholder).
+### 🛡️ System Overview: Core Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh2702&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dracula)
 
-😄 Pronouns: He/Him
+### 🔥 Propulsion Logs: Commit Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2702&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-⚡ Fun fact: Still a noob at times, but leveling up fast while decoding the universe’s algorithms!
+### 📈 Orbit Trajectory: Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh2702&bg_color=1d1f21&color=ffffff&line=2bbc8a&point=c9cacc&area=true&hide_border=true&theme=dracula)
 
-## Stats
+## 🏆 Mastery Console: Achievement Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Santosh2702&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15)
 
-<a href="https://github.com/Santosh2702/Santosh2702">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh2702&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Santosh2702/Santosh2702">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh2702&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Santosh GitHub Stats" />
-</a>
+## 🛰️ Pinned Satellites: Flagship Projects
 
-## Streak Stats
+| Mission | Description | Tech | Stars |
+|---------|-------------|------|-------|
+| [Convolution-Neural-Network-Model](https://github.com/Santosh2702/Convolution-Neural-Network-Model) | Building convolutional neural networks for image processing | Python | 9 ⭐ |
+| [Machine-Learning-using-Python](https://github.com/Santosh2702/Machine-Learning-using-Python) | Hands-on ML projects from summer training | Jupyter Notebook | 4 ⭐ |
+| [Udemy-Machine-Learning-A-Z](https://github.com/Santosh2702/Udemy-Machine-Learning-A-Z) | Comprehensive Machine Learning course implementations | Python | 22 ⭐ |
+| [Movie-Recommender-System](https://github.com/Santosh2702/Movie-Recommender-System) | AI-powered movie recommendation engine | Python | 5 ⭐ |
+| [tensorflow (fork)](https://github.com/Santosh2702/tensorflow) | Contributing to the open-source ML framework | C++ | 193k ⭐ |
+| [pandas (fork)](https://github.com/Santosh2702/pandas) | Data analysis library contributions | Python | 47.4k ⭐ |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santosh2702&theme=shades-of-purple)](https://git.io/streak-stats)
+## 🌠 Exploration Logs: Recent Activity
+- Heavy focus on commits (100% activity)
+- Recent boosts: PostOfficeTracker, Crudeoil.py, Basics, HiveMind, and personal portfolio site
 
+Explore the full repository galaxy: [github.com/Santosh2702](https://github.com/Santosh2702)
 
-
-  
-
+**Let's launch something epic together!** 🚀🌌

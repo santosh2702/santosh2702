@@ -10,8 +10,8 @@
 - 🔭 **Active Mission:** Building smarter neural networks neuron by neuron  
 - 🌱 **Upgrading Systems:** Conquering Data Structures & Algorithms  
 - 💬 **Open Channel:** Geek out with me on AI, Algorithms, or the universe's hidden patterns!  
-- 📫 **Transmit Message:** santosh2702.github.io (or drop your email here)  
-- 😄 **Call Sign:** He/Him  
+- 📫 **Transmit Message:** Email 
+- 😄 **Call Sign:** He/Him
 - ⚡ **Hyperdrive Fact:** Eternal noob mode activated – but leveling up faster than light!  
 
 **Fleet Status:** ![Followers](https://img.shields.io/badge/Crew-124-blue?style=for-the-badge) 

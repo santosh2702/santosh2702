@@ -1,56 +1,55 @@
-# 🚀 Hello there! 👨‍🚀
+# 🚀 **Santosh's GitHub** 👨‍🚀🌌
 
-![Mission Control Dashboard](https://thumbs.dreamstime.com/b/futuristic-control-room-earth-view-multiple-monitors-command-center-technology-futuristic-control-room-earth-view-424275923.jpg)
+![Black Hole Gateway](https://scitechdaily.com/images/Black-Hole-Accetion-Disc-Illustration.jpg)
 
-## Command Deck: Captain's Log
+> **"Cracking neural codes, mastering DSA, and launching AI into the cosmos – one commit at a time."**
 
-**Captain:** Santosh Kumar  
-**Role:** Software Engineer | Open Source Enthusiast | Machine Learning Geek  
+**Commander:** Santosh Kumar  
+**Rank:** Software Engineer | Open Source Enthusiast | Machine Learning Geek  
 
-Decoding Neural Networks and DSA while building the future, one algorithm at a time.
+- 🔭 **Active Mission:** Building smarter neural networks neuron by neuron  
+- 🌱 **Upgrading Systems:** Conquering Data Structures & Algorithms  
+- 💬 **Open Channel:** Geek out with me on AI, Algorithms, or the universe's hidden patterns!  
+- 📫 **Transmit Message:** santosh2702.github.io (or drop your email here)  
+- 😄 **Call Sign:** He/Him  
+- ⚡ **Hyperdrive Fact:** Eternal noob mode activated – but leveling up faster than light!  
 
-- 🔭 **Current Mission:** Cracking the code of Neural Networks, building smarter systems one neuron at a time.
-- 🌱 **Orbiting Knowledge:** Mastering DSA to make my coding game unstoppable.
-- 💬 **Interstellar Comms:** Ask me about Algorithms, AI, or the cosmic patterns behind it all—I'm down to geek out!
-- 📫 **Signal Beacon:** Reach me via Gmail
-- 😄 **Identifiers:** He/Him
-- ⚡ **Quantum Fact:** Still a noob at times, but leveling up fast while decoding the universe’s algorithms!
+**Fleet Status:** ![Followers](https://img.shields.io/badge/Crew-124-blue?style=for-the-badge) 
+![Following](https://img.shields.io/badge/Scouting-156-green?style=for-the-badge)  
+**389 Contributions in the Last Year** 🔥
 
-**Crew Status:** ![Followers](https://img.shields.io/badge/Followers-124-blue) | ![Following](https://img.shields.io/badge/Following-156-green)  
-**Contributions Last Year:** 389 🚀
+## 🖥️ **Telemetry Dashboards – Live GitHub Feeds**
 
-## Telemetry Dashboards: Real-Time GitHub Metrics
+### 🌠 Top Languages Radar
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh2702&hide=java,html,tex&langs_count=6&theme=dracula&layout=compact&title_color=ff6bcb&text_color=ffffff&icon_color=00d9ff&bg_color=0d1117)
 
-### 🌌 Radar Scan: Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh2702&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&theme=dracula)
+### ⚡ Core Systems Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh2702&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&title_color=ff6bcb&text_color=ffffff&icon_color=00d9ff&bg_color=0d1117)
 
-### 🛡️ System Overview: Core Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh2702&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dracula)
+### 🔥 Streak Propulsion Engine
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2702&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&curr_streak_label=ff6bcb&ring=00d9ff&fire=ff6bcb&background=0d1117)](https://git.io/streak-stats)
 
-### 🔥 Propulsion Logs: Commit Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2702&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 📊 Orbital Contribution Trajectory
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh2702&theme=dracula&bg_color=0d1117&color=ff6bcb&line=00d9ff&point=ffffff&area=true&hide_border=true)
 
-### 📈 Orbit Trajectory: Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh2702&bg_color=1d1f21&color=ffffff&line=2bbc8a&point=c9cacc&area=true&hide_border=true&theme=dracula)
+## 🏆 **Mastery Console – Galactic Trophies Unlocked**
+![Trophies](https://github-profile-trophy.vercel.app/?username=Santosh2702&theme=dracula&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7)
 
-## 🏆 Mastery Console: Achievement Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Santosh2702&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15)
+## 🛰️ **Flagship Fleet – Pinned Missions**
 
-## 🛰️ Pinned Satellites: Flagship Projects
+| 🚀 Mission | Description | Tech Stack | Stars |
+|------------|-------------|------------|-------|
+| [Convolution-Neural-Network-Model](https://github.com/Santosh2702/Convolution-Neural-Network-Model) | Deep dive into convolutional networks for image mastery | Python | ⭐ 9 |
+| [Machine-Learning-using-Python](https://github.com/Santosh2702/Machine-Learning-using-Python) | Hands-on ML projects from intensive training | Jupyter | ⭐ 4 |
+| [Udemy-Machine-Learning-A-Z](https://github.com/Santosh2702/Udemy-Machine-Learning-A-Z) | Full Machine Learning course implementations | Python | ⭐ 22 |
+| [Movie-Recommender-System](https://github.com/Santosh2702/Movie-Recommender-System) | Intelligent movie recommendation engine | Python | ⭐ 5 |
+| [tensorflow (fork)](https://github.com/Santosh2702/tensorflow) | Contributing to the legendary ML framework | C++ | ⭐ 193k |
+| [pandas (fork)](https://github.com/Santosh2702/pandas) | Powering data analysis worldwide | Python | ⭐ 47.4k |
 
-| Mission | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [Convolution-Neural-Network-Model](https://github.com/Santosh2702/Convolution-Neural-Network-Model) | Building convolutional neural networks for image processing | Python | 9 ⭐ |
-| [Machine-Learning-using-Python](https://github.com/Santosh2702/Machine-Learning-using-Python) | Hands-on ML projects from summer training | Jupyter Notebook | 4 ⭐ |
-| [Udemy-Machine-Learning-A-Z](https://github.com/Santosh2702/Udemy-Machine-Learning-A-Z) | Comprehensive Machine Learning course implementations | Python | 22 ⭐ |
-| [Movie-Recommender-System](https://github.com/Santosh2702/Movie-Recommender-System) | AI-powered movie recommendation engine | Python | 5 ⭐ |
-| [tensorflow (fork)](https://github.com/Santosh2702/tensorflow) | Contributing to the open-source ML framework | C++ | 193k ⭐ |
-| [pandas (fork)](https://github.com/Santosh2702/pandas) | Data analysis library contributions | Python | 47.4k ⭐ |
+## 🌑 **Deep Space Log**
+Recent maneuvers: Boosting PostOfficeTracker, Crudeoil.py, HiveMind dream journal, and personal portfolio launches.
 
-## 🌠 Exploration Logs: Recent Activity
-- Heavy focus on commits (100% activity)
-- Recent boosts: PostOfficeTracker, Crudeoil.py, Basics, HiveMind, and personal portfolio site
+**Ready for hyperspace collaboration?**  
+Explore the full galaxy → [github.com/Santosh2702](https://github.com/Santosh2702)
 
-Explore the full repository galaxy: [github.com/Santosh2702](https://github.com/Santosh2702)
-
-**Let's launch something epic together!** 🚀🌌
+**Let's ignite the next big launch together!** 🚀✨
